@@ -15,3 +15,10 @@ Switch themes and reload. Answer five questions, check the score, then restart. 
 
 ## Deploy
 In a GitHub repository, open Settings → Pages, select deployment from a branch, and publish the root of main. The site has no build step or secrets.
+
+## Published work
+- Portfolio: https://stranger4uu.github.io/ai-coursework-portfolio/
+- Theme and quiz review: https://github.com/Stranger4uu/ai-coursework-portfolio/pull/1
+- Study Sprint: https://stranger4uu.github.io/ai-coursework-portfolio/study-sprint/
+
+Study Sprint is a standalone planner with task entry, completion, deletion, filtering, and localStorage. The Bolt build failed during project setup, so this fallback was implemented with AI assistance and deployed through the same GitHub Pages site.
